@@ -25,10 +25,10 @@
     "email": "wordpress@htmlburger.com"
   },
   "require": {
-    "php": ">=5.5",
+    "php": ">=7.2.5",
     "pimple/pimple": "~3.2.3",
-    "guzzlehttp/psr7": "^1.5",
-    "psr/container": "1.0.0"
+    "guzzlehttp/psr7": "^2.6",
+    "psr/container": "2.0.1"
   },
   "require-dev": {
     "filp/whoops": "^2.2",
